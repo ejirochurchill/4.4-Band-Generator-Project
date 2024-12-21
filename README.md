@@ -7,7 +7,7 @@ This is a simple Node.js application that generates random band names when a but
 - Lightweight and fast server-side processing using Node.js.
 
 ## Demo
-![Band Name Generator Screenshot](./screenshot.png)  
+![Band Name Generator Screenshot](./Screenshot.png)  
 _A preview of the Band Name Generator interface._
 
 ## Installation and Setup
